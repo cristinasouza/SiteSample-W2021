@@ -107,7 +107,7 @@ ALTER TABLE IE_Exemplo.turma
 --
 -- Incluindo dados da tabela professor
 --
-INSERT INTO IE_Exemplo.professor (CodProfessor, Come, Celular, DataNasc, Login, Senha) VALUES
+INSERT INTO IE_Exemplo.professor (CodProfessor, Nome, Celular, DataNasc, Login, Senha) VALUES
 (3, 'Jose da Silva', '(41)99777-1234', '1998-06-20', 'jose.silva', 'a542e148269b71d4b8be8538f09c2f9a'),
 (5, 'Eduarda Laranjeiras', '(41)82233-1111', '1999-12-28', 'eduarda.laran', '2fbb45fe0ec24b6900b9f2c4800351bf'),
 (6, 'Carlos Ataide', '(41)91234-1234', '1985-11-10', 'carlos.ata', 'e267cfcd18461ce938067eca67c59f41'),
