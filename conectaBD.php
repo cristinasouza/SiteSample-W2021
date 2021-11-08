@@ -5,7 +5,7 @@ PUCPR
 CONECTABD.PHP - deve ser incluído em todos os arquivos PHP que precisam de acesso à BD
 
 Profa. Cristina V. P. B. Souza
-Agosto/2021
+Novembro/2021
 ---------------------------------------------------------------------------------->
 <?php
 global $servername ;
